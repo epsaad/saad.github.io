@@ -152,6 +152,7 @@
     height: 100%;
     left: 0;
     color: #fff;
+    
   }
   
   .text {
@@ -277,10 +278,17 @@
     transform: translate(0px,0%);
     opacity: 1;
    }
-h5{
+h5 h1 h2 h3 h4 p{
   font-family: Arial, Helvetica, sans-serif;
 }    
   
-
+a{
+  text-decoration: none;
+  color: #171717;
+}
+.cartImage{
+  height: 20px;
+  width: 20px;
+}
   
   
